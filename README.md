@@ -42,3 +42,4 @@ Interpretation : Including prior academic scores improves the prediction accurac
 * Highlights the importance of consistent academic performance over time
 
 # Study time vs Final grade
+![The plot shows the weekly study time vs final grade performance](https://github.com/AnirudhGhatty/Student-Performance-ML/blob/main/Screenshot%202026-04-22%20210241.png)
